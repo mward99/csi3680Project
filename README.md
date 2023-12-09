@@ -1,1 +1,1 @@
-# csi3680Project
+# weatherapp-csi3680
